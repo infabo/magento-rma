@@ -1,0 +1,8 @@
+src/app/code/community/Calliweb/Rma app/code/community/Calliweb/Rma
+src/app/design/frontend/base/default/layout/rma.xml app/design/frontend/base/default/layout/rma.xml
+src/app/design/frontend/base/default/template/rma app/design/frontend/base/default/template/rma
+src/app/etc/modules/Calliweb_Rma.xml app/etc/modules/Calliweb_Rma.xml
+src/app/locale/en_US/Calliweb_Rma.csv app/locale/en_US/Calliweb_Rma.csv
+src/app/locale/fr_FR/Calliweb_Rma.csv app/locale/fr_FR/Calliweb_Rma.csv
+src/skin/frontend/base/default/js/rma.js skin/frontend/base/default/js/rma.js
+@shell if ! [ -d $PROJECT/media/rma/attachments ]; then mkdir -p $PROJECT/media/rma/attachments; fi;
